@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.d1c5b15f.js",
-    "static/js/787.e30fbeaa.chunk.js": "/static/js/787.e30fbeaa.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.d1c5b15f.js.map": "/static/js/main.d1c5b15f.js.map",
-    "787.e30fbeaa.chunk.js.map": "/static/js/787.e30fbeaa.chunk.js.map"
+    "main.css": "/github.io/standup/static/css/main.073c9b0a.css",
+    "main.js": "/github.io/standup/static/js/main.6d273101.js",
+    "static/js/787.e30fbeaa.chunk.js": "/github.io/standup/static/js/787.e30fbeaa.chunk.js",
+    "static/media/logo.svg": "/github.io/standup/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/standup/index.html",
+    "main.073c9b0a.css.map": "/github.io/standup/static/css/main.073c9b0a.css.map",
+    "main.6d273101.js.map": "/github.io/standup/static/js/main.6d273101.js.map",
+    "787.e30fbeaa.chunk.js.map": "/github.io/standup/static/js/787.e30fbeaa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d1c5b15f.js"
+    "static/js/main.6d273101.js"
   ]
 }
