@@ -2,6 +2,8 @@ import logo from "./img/logo.png";
 import "./App.css";
 import Editor from "./components/Editor";
 import { Component } from "react";
+import config from "./config";
+console.log(config.apiKey);
 
 class App extends Component {
   constructor() {
